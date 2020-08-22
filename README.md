@@ -1,4 +1,4 @@
-### Hi there, I am Aamir Jan Khan - aka [aamirjankhan] [website] 👋
+### Hi there, I am Aamir Jan Khan - aka techwithajk [youtube] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AamirJanKhan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAamirJanKhan5&screen_name=AamirJanKhan5)
 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on with Tech Start-Ups
 - 🤔 I’m looking for help with Full-Stack-Web-Developement
 - 💬 Ask me about Anything Realated to programming and tech
-- 📫 How to reach me: [Instagram]
+- 📫 How to reach me: aamirjankhan.tech@gmail.com [gmail]
 - ⚡ Fun fact: Love to create some awesome Paper Art
 
 ### Connect with me:
@@ -43,6 +43,7 @@
 [instagram]: https://instagram.com/techwithajk
 [linkedin]: https://linkedin.com/in/aamir-jan-khan-
 [PyQt5 Playlist]: https://www.youtube.com/playlist?list=PLqPI6DRRAaf_pxmF1DIPcm5NQUdQcSYII
+[gmail]: https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTKWlrnPHcHxMvLJZMZJzRQrPNBbSDhtWSXkvflPktKMqGvXpCtzQWPjjWlbLZDMTmcbjV
 
 <br />
 
