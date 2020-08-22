@@ -29,10 +29,10 @@
 <img align="left" alt="Python" width="30px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/python.jpg" />
 <img align="left" alt="Java" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/java.png" />
 <img align="left" alt="c++" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
-<img align="left" alt="TensorFlow" width="36px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/tensorflow.jpg" />
+<img align="left" alt="TensorFlow" width="46px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/tensorflow.jpg" />
 <img align="left" alt="OpenCV" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/opencv.png" />
 <img align="left" alt="mySQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/mysql.png" />
-<img align="left" alt="SQL" width="32px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/sql.jpg" />
+<img align="left" alt="SQL" width="46px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/sql.jpg" />
 <img align="left" alt="PyQt5" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/pyqt5.png" />
 
 <br />
