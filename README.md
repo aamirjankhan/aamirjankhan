@@ -22,4 +22,10 @@
 
 <br />
 
+[website]: https://github.com/aamirjankhan
+[twitter]: https://twitter.com/AamirJanKhan5
+[youtube]: https://youtube.com/techwithajk
+[instagram]: https://instagram.com/techwithajk
+[linkedin]: https://linkedin.com/in/aamir-jan-khan-
+[PyQt5 Playlist]: https://www.youtube.com/playlist?list=PLqPI6DRRAaf_pxmF1DIPcm5NQUdQcSYII
 
