@@ -37,6 +37,7 @@
 <img align="left" alt="mySQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/mysql.png" />
 <img align="left" alt="SQL" width="46px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/sql.jpg" />
 <img align="left" alt="PyQt5" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/pyqt5.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/kotlin.svg" />
 
 <br />
 
