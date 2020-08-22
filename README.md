@@ -24,7 +24,7 @@
 
 [website]: https://github.com/aamirjankhan
 [twitter]: https://twitter.com/AamirJanKhan5
-[youtube]: https://youtube.com/techwithajk
+[youtube]: https://www.youtube.com/channel/UCRz9sfhH9_Izv0_3i90n3DQ
 [instagram]: https://instagram.com/techwithajk
 [linkedin]: https://linkedin.com/in/aamir-jan-khan-
 [PyQt5 Playlist]: https://www.youtube.com/playlist?list=PLqPI6DRRAaf_pxmF1DIPcm5NQUdQcSYII
