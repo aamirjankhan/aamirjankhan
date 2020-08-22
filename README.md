@@ -24,15 +24,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Git" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\git.jpg" />]
-[<img align="left" alt="GitHub" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\github.png" />]
-[<img align="left" alt="Python" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\python.png" />]
-[<img align="left" alt="OpenCV" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\opencv.png" />]
-[<img align="left" alt="TensorFlow" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\tensorflow.png" />]
-[<img align="left" alt="c++" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\c++.png" />]
-[<img align="left" alt="Java" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\java.png" />]
-[<img align="left" alt="SQL" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\sql.png" />]
-[<img align="left" alt="mysql" width="26px" src="C:\Users\H.A.R\Documents\repo\aamirjankhan\icons\mysql.png" />]
+[<img align="left" alt="Git" width="26px" src="icons\git.jpg" />]
+[<img align="left" alt="GitHub" width="26px" src="icons\github.png" />]
+[<img align="left" alt="Python" width="26px" src="icons\python.png" />]
+[<img align="left" alt="OpenCV" width="26px" src="icons\opencv.png" />]
+[<img align="left" alt="TensorFlow" width="26px" src="icons\tensorflow.png" />]
+[<img align="left" alt="c++" width="26px" src="icons\c++.png" />]
+[<img align="left" alt="Java" width="26px" src="icons\java.png" />]
+[<img align="left" alt="SQL" width="26px" src="icons\sql.png" />]
+[<img align="left" alt="mysql" width="26px" src="icons\mysql.png" />]
 
 <br />
 
