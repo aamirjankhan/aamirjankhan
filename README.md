@@ -30,7 +30,7 @@
 [<img align="left" alt="OpenCV" width="26px" src="icons\opencv.png" />]
 [<img align="left" alt="TensorFlow" width="26px" src="icons\tensorflow.png" />]
 [<img align="left" alt="c++" width="26px" src="icons\c++.png" />]
-[<img align="left" alt="Java" width="26px" src="icons\java.png" />]
+[<img align="left" alt="Java" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fjava-60-1174953.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fjava-60&tbnid=aYELYBkGhuz8CM&vet=12ahUKEwjd9ZuhwK7rAhXQ1eAKHej5BaIQMygDegUIARDSAQ..i&docid=-0ollJlsDR9LrM&w=256&h=256&q=java%20icon&ved=2ahUKEwjd9ZuhwK7rAhXQ1eAKHej5BaIQMygDegUIARDSAQ" />]
 [<img align="left" alt="SQL" width="26px" src="icons\sql.png" />]
 [<img align="left" alt="mysql" width="26px" src="icons\mysql.png" />]
 
