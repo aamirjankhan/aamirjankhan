@@ -1,16 +1,19 @@
-### Hi there, I am Aamir Jan Khan - aka techwithajk [youtube] 👋
+### Hi there, I am Aamir Jan Khan - aka [techwithajk] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AamirJanKhan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAamirJanKhan5&screen_name=AamirJanKhan5)
 
 ## I'm a Student, Developer, and a Teacher!
 
+- 🏢 COMSATS UNIVERSITY ISALAMABAD
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Deep-learning, Full-Stack-Web-Developement, Andriod 
 - 👯 I’m looking to collaborate on with Tech Start-Ups
 - 🤔 I’m looking for help with Full-Stack-Web-Developement
 - 💬 Ask me about Anything Realated to programming and tech
-- 📫 How to reach me: aamirjankhan.tech@gmail.com [gmail]
-- ⚡ Fun fact: Love to create some awesome Paper Art
+- 📫 How to reach me: aamirjankhan.tech@gmail.com
+- 📫 Educational email id: SP17-BSI-017@ISBSTUDENT.COMSATS.EDU.PK
+- ⚡ Fun fact 1: Love to create some awesome Paper Art 📃
+- ⚡ Fun fact 2: Love to 🌅Travel🗻
 
 ### Connect with me:
 
@@ -40,6 +43,7 @@
 [website]: https://github.com/aamirjankhan
 [twitter]: https://twitter.com/AamirJanKhan5
 [youtube]: https://www.youtube.com/channel/UCRz9sfhH9_Izv0_3i90n3DQ
+[techwithajk]: https://www.youtube.com/channel/UCRz9sfhH9_Izv0_3i90n3DQ
 [instagram]: https://instagram.com/techwithajk
 [linkedin]: https://linkedin.com/in/aamir-jan-khan-
 [PyQt5 Playlist]: https://www.youtube.com/playlist?list=PLqPI6DRRAaf_pxmF1DIPcm5NQUdQcSYII
