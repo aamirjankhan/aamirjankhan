@@ -24,15 +24,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/git.jpg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/github.jpg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/git.jpg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/java.jpg" />
 <img align="left" alt="c++" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
-<img align="left" alt="OpenCV" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
-<img align="left" alt="mySQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/tensorflow.png" />
+<img align="left" alt="OpenCV" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/opencv.png" />
+<img align="left" alt="mySQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/mysql.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/sql.png" />
+<img align="left" alt="PyQt5" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/pyqt5.png" />
 
 <br />
 
