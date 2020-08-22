@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AamirJanKhan5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAamirJanKhan5&screen_name=AamirJanKhan5)
 
-## I'm a Student, Developer, and Teacher!
+## I'm a Student, Developer, and a Teacher!
 
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Deep-learning, Full-Stack-Web-Developement, Andriod 
@@ -25,14 +25,14 @@
 ### Languages and Tools:
 
 <img align="left" alt="Git" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/git.jpg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/github.jpg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/git.jpg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/java.jpg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/github.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/python.jpg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/java.png" />
 <img align="left" alt="c++" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/tensorflow.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/tensorflow.jpg" />
 <img align="left" alt="OpenCV" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/opencv.png" />
 <img align="left" alt="mySQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/mysql.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/sql.jpg" />
 <img align="left" alt="PyQt5" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/pyqt5.png" />
 
 <br />
