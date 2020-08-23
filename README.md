@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/git.jpg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/github.png" />
 <img align="left" alt="Python" width="30px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/python.jpg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/java.png" />
+<img align="left" alt="Java" width="30px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/java.png" />
 <img align="left" alt="c++" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/c%2B%2B.png" />
 <img align="left" alt="TensorFlow" width="46px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/tensorflow.jpg" />
 <img align="left" alt="OpenCV" width="26px" src="https://github.com/aamirjankhan/aamirjankhan/blob/master/icons/opencv.png" />
